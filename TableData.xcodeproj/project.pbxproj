@@ -14,6 +14,7 @@
 		3CF8CF66203F314500C54565 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CF8CF64203F314500C54565 /* LaunchScreen.storyboard */; };
 		3CF8CF71203F314500C54565 /* TableDataTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF8CF70203F314500C54565 /* TableDataTests.swift */; };
 		3CF8CF7C203F314600C54565 /* TableDataUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF8CF7B203F314600C54565 /* TableDataUITests.swift */; };
+		3CF8CF8A203F3A0000C54565 /* dataTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CF8CF89203F3A0000C54565 /* dataTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3CF8CF77203F314600C54565 /* TableDataUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableDataUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CF8CF7B203F314600C54565 /* TableDataUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableDataUITests.swift; sourceTree = "<group>"; };
 		3CF8CF7D203F314600C54565 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3CF8CF89203F3A0000C54565 /* dataTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dataTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				3CF8CF5B203F314500C54565 /* AppDelegate.swift */,
 				3CF8CF5D203F314500C54565 /* ViewController.swift */,
 				3CF8CF5F203F314500C54565 /* Main.storyboard */,
+				3CF8CF89203F3A0000C54565 /* dataTableViewCell.swift */,
 				3CF8CF62203F314500C54565 /* Assets.xcassets */,
 				3CF8CF64203F314500C54565 /* LaunchScreen.storyboard */,
 				3CF8CF67203F314500C54565 /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				3CF8CF5E203F314500C54565 /* ViewController.swift in Sources */,
 				3CF8CF5C203F314500C54565 /* AppDelegate.swift in Sources */,
+				3CF8CF8A203F3A0000C54565 /* dataTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
